@@ -1,0 +1,32 @@
+
+.table-info {
+    width: 90%;
+}
+
+.table-info > th {
+    color: #fff;
+    text-align: left;
+    padding-right: 1.3rem;
+}
+
+.table-info > td {
+    border-top: 2px solid #3D3D3D;
+    border-bottom: 2px solid #3D3D3D;
+    background: #242424;
+    padding: 0.5rem 1rem;
+    color: #fff;
+}
+
+
+#buttons-home__container {
+    display: flex;
+    width: 80%;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 3rem;
+}
+
+.button-home {
+    width: 8rem;
+    margin-top: 1rem;
+}

@@ -1,0 +1,22 @@
+h1, h3 {
+    text-align: center;
+
+}
+
+#div-imgs__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.div-imgs {
+    padding: 2rem;
+    border: 5px solid #3D3D3D;
+    border-radius: 8px;
+    margin: 0 1rem;
+}
+
+a {
+    text-decoration: none;
+    color: #7F7F7F;
+}

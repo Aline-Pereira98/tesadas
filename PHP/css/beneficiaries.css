@@ -1,0 +1,12 @@
+#registers-contact__container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#cep {
+    width: 20%;
+}
+
+#phone, #cell {
+    width: 70%;
+}
